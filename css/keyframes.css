@@ -1,0 +1,120 @@
+
+@keyframes bg-cycle {
+    0% { color: #FAFE4B; }
+    1% { color: #D6B4FC; }
+    2% { color: #FFC512; }
+    3% { color: #F10C45; }
+    4% { color: #20C073; }
+    5% { color: #1FA774; }
+    6% { color: #6D5ACF; }
+    7% { color: #FE46A5; }
+    8% { color: #02066F; }
+    9% { color: #475F94; }
+    10% { color: #0F9B8E; }
+    11% { color: #FA4224; }
+    12% { color: #32BF84; }
+    13% { color: #FFAB0F; }
+    14% { color: #FF073A; }
+    15% { color: #107AB0; }
+    16% { color: #017374; }
+    17% { color: #728639; }
+    18% { color: #3E82FC; }
+    19% { color: #BFF128; }
+    20% { color: #10A674; }
+    21% { color: #070D0D; }
+    22% { color: #B30049; }
+    23% { color: #EDC8FE; }
+    24% { color: #017B92; }
+    25% { color: #FF6BB5; }
+    26% { color: #B36FF6; }
+    27% { color: #FCC006; }
+    28% { color: #FDAB48; }
+    29% { color: #FF7052; }
+    30% { color: #000000; }
+    31% { color: #FB5681; }
+    32% { color: #95A3A6; }
+    33% { color: #DFC5FE; }
+    34% { color: #5D1451; }
+    35% { color: #04D9FF; }
+    36% { color: #E17701; }
+    37% { color: #6241C7; }
+    38% { color: #89A0B0; }
+    39% { color: #FFC5CB; }
+    40% { color: #FCF679; }
+    41% { color: #41FDFE; }
+    42% { color: #FF81C0; }
+    43% { color: #42B395; }
+    44% { color: #044A05; }
+    45% { color: #BDF8A3; }
+    47% { color: #017371; }
+    48% { color: #56FCA2; }
+    49% { color: #0E87CC; }
+    50% { color: #6C3461; }
+    51% { color: #94568C; }
+    52% { color: #FDB915; }
+    53% { color: #FC824A; }
+    54% { color: #B00149; }
+    55% { color: #0C1793; }
+    56% { color: #677A04; }
+    57% { color: #FFE5AD; }
+    58% { color: #33B864; }
+    59% { color: #FF964F; }
+    60% { color: #D46A7E; }
+    61% { color: #59656D; }
+    62% { color: #B04E0F; }
+    63% { color: #826D8C; }
+    64% { color: #FA5FF7; }
+    65% { color: #FFC512; }
+    66% { color: #84597E; }
+    67% { color: #7BC8F6; }
+    68% { color: #A7FFB5; }
+    69% { color: #FEB2D0; }
+    70% { color: #76FF7B; }
+    71% { color: #FF69AF; }
+    72% { color: #5729CE; }
+    73% { color: #7BC8F6; }
+    74% { color: #A7FFB5; }
+    75% { color: #FEB2D0; }
+    76% { color: #D3494E; }
+    77% { color: #FFE5AD; }
+    78% { color: #13BBAF; }
+    79% { color: #FFFF14; }
+    80% { color: #CB0162; }
+    81% { color: #FF6163; }
+    82% { color: #FFFF7E; }
+    83% { color: #665FD1; }
+    84% { color: #CD5908; }
+    85% { color: #FD5956; }
+    86% { color: #F5054F; }
+    87% { color: #7E4071; }
+    88% { color: #EFC0FE; }
+    89% { color: #26F7FD; }
+    90% { color: #3D7AFD; }
+    91% { color: #FD8D49; }
+    92% { color: #FDDE6C; }
+    93% { color: #F43605; }
+    94% { color: #6C3461; }
+    95% { color: #D9544D; }
+    96% { color: #F5BF03; }
+    97% { color: #9DFF00; }
+    98% { color: #FE86A4; }
+    99% { color: #FE019A; }
+    100% { color: #0504AA; }
+  }
+
+  @keyframes rainbow-spin {
+	from {
+    transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+  }
+	to {
+    transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+  }
+}
